@@ -19,7 +19,7 @@ def main():
     except Exception as e:
         print(e)
     else:
-        print("lectura exsitosa")
+        print("Lectura exitosa")
         texto=replace_with_dictionary(texto)
         print(texto)
 
